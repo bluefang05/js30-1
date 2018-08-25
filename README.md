@@ -9,8 +9,9 @@ https://pixabay.com/photo-2089829/
 
 https://javascript30.com
 
-### Nerlify
+### Netlify
 
+https://drumkitjs30.netlify.com
 https://app.netlify.com/sites/drumkitjs30/deploys
 
 ### jsfiddle
